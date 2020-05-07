@@ -1,6 +1,4 @@
 title: Covidometer
 description: Find out a probability that a person in a public place is contagious
-github:
-  zip_url: https://alexvznk.github.io/covidometer/terms.html
-  another_url: https://alexvznk.github.io/covidometer/privacy.html
+show_downloads: False
 theme: jekyll-theme-cayman
