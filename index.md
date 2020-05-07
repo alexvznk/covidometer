@@ -10,3 +10,7 @@ These are the kind of questions that Covidometr aims at answering.
 - Arbitrarily set the value of the parameters needed: the proportion of new infections that go undetected and the length of time that a person is contagious for.
 
 This app was developed by a group of developers and data scientists living (sheltering in place) in Silicon Valley.
+
+## Disclaimer
+
+Our calculations rely on parameters whose value cannot be determined precisely at the current moment. We warn users that the probabilities computed by our applications can be very far from the real ones, and we allow the users to set the parameter values as they please. We decline all responsibilities for any decision made based on our app by individuals, organizations, or entities.
